@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**esthergehman/esthergehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Esther!
 
-Here are some ideas to get you started:
+- ⭐ My major is Information Systems & Technology
+- ⭐ I have a bernedoodle named Juniper
+- ⭐ Fun fact: I play guitar!🎸🎸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a short vid of me playing!
+https://user-images.githubusercontent.com/32390336/214924474-75d42184-92ec-451e-803d-9957e5ed3038.mp4
+
+And here are the links to my three favorite songs!
+1. [Snowbank Blues](https://youtu.be/6t8hA5fZ9mM) by The Backseat Lovers 
+2. [Shake the Frost](https://youtu.be/8LPulRAlD2w) by Tyler Childers
+3. [Country](https://youtu.be/c6wCsP16G78) by Racoma
